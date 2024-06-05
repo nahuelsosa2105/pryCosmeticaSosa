@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pryCosmeticaSosa", "pryCosmeticaSosa.csproj", "{488732DA-1F06-461A-BCB0-AB7B1A6C3928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{488732DA-1F06-461A-BCB0-AB7B1A6C3928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{488732DA-1F06-461A-BCB0-AB7B1A6C3928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{488732DA-1F06-461A-BCB0-AB7B1A6C3928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{488732DA-1F06-461A-BCB0-AB7B1A6C3928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CCEB8AD-8E58-4F58-AAF3-E777FD4CFCD5}
+	EndGlobalSection
+EndGlobal
